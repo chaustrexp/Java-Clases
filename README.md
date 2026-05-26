@@ -28,6 +28,18 @@ Conversión de velocidad. El usuario ingresa una velocidad en km/h y el programa
 ### Ejercicio8.java
 Separación de cifras. El usuario ingresa un número entero de 3 cifras y el programa separa y muestra las centenas, decenas y unidades.
 
+### Ejercicio9.java
+Validación de división. El usuario ingresa un dividendo y un divisor, y el programa determina si la división es exacta o no (mostrando el resto), controlando además que no se intente dividir entre cero.
+
+### Ejercicio10.java
+Análisis de números. El usuario ingresa un número decimal y el programa determina si es entero o decimal, si es positivo, negativo o neutro (cero), y en caso de ser entero, si es par o impar.
+
+### Ejercicio11.java
+Validación de rango y divisibilidad. El usuario ingresa un número entero y el programa verifica si se encuentra en el rango de 1000 a 10000 (inclusive) y si NO es divisible por 5.
+
+### Ejercicio12.java
+Evaluación de residuo con estructura condicional `switch`. El usuario ingresa un número entero, calcula el módulo con 5 y asocia el resultado (de 0 a 4) con una letra de la 'A' a la 'E' (y 'F' por defecto).
+
 ### Tarea.java
 Manejo de arreglos con ciclos. Declara un arreglo de 10 enteros, lo inicializa con múltiplos de 100 (100, 200, ..., 1000) y los imprime usando ciclos `for`.
 
