@@ -40,6 +40,18 @@ Validación de rango y divisibilidad. El usuario ingresa un número entero y el 
 ### Ejercicio12.java
 Evaluación de residuo con estructura condicional `switch`. El usuario ingresa un número entero, calcula el módulo con 5 y asocia el resultado (de 0 a 4) con una letra de la 'A' a la 'E' (y 'F' por defecto).
 
+### Ejercicio13.java
+Impresión de números impares. El programa imprime todos los números impares del 1 al 100 usando un bucle `for`.
+
+### Ejercicio14.java
+Suma acumulada. El usuario ingresa un valor límite `x`, y el programa suma números consecutivos (1, 2, 3...) hasta que la suma acumulada supere el límite `x`.
+
+### Ejercicio15.java
+Verificación de número primo. El usuario ingresa un número entero y el programa determina si es un número primo o no mediante un método dedicado.
+
+### Ejercicio16.java
+Lectura y ordenamiento de números. El usuario ingresa una serie de números enteros hasta ingresar un 0 (que termina la ejecución). El programa guarda los números en una lista, los ordena de menor a mayor y los imprime.
+
 ### Tarea.java
 Manejo de arreglos con ciclos. Declara un arreglo de 10 enteros, lo inicializa con múltiplos de 100 (100, 200, ..., 1000) y los imprime usando ciclos `for`.
 
