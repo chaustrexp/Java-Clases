@@ -1,3 +1,5 @@
+package Tarea;
+
 public class Tarea {
     public static void main(String[] args) {
         // declares and allocates memory for 10 integers

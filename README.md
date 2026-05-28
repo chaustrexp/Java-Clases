@@ -52,6 +52,21 @@ Verificación de número primo. El usuario ingresa un número entero y el progra
 ### Ejercicio16.java
 Lectura y ordenamiento de números. El usuario ingresa una serie de números enteros hasta ingresar un 0 (que termina la ejecución). El programa guarda los números en una lista, los ordena de menor a mayor y los imprime.
 
+### Ejercicio17.java
+Uso de arreglos básicos. El programa pide al usuario 10 números enteros, los almacena en un arreglo unidimensional (vector) y luego los imprime indicando su posición.
+
+### Ejercicio18.java
+Arreglos con interrupción condicional. El usuario ingresa números que se guardan en un arreglo (máximo 10). Si se ingresa un número mayor a 20, la lectura se interrumpe inmediatamente mediante `break` y muestra únicamente los elementos registrados hasta el momento.
+
+### Ejercicio19.java
+Matrices bidimensionales. El programa genera una matriz de 5 filas por 10 columnas poblada con números aleatorios (entre 1 y 9), la imprime en formato tabular y finalmente calcula la suma total de sus 50 elementos.
+
+### Carpeta `Ciclos/`
+Ejemplos enfocados en el uso de ciclos anidados e interactivos:
+- **`Ciclo1.java`**: Generación de las tablas de multiplicar (del 1 al 5) usando ciclos `for` anidados.
+- **`Ciclo2.java`**: Dibujo de un triángulo rectángulo de asteriscos, demostrando la relación de dependencia entre el ciclo externo (filas) y el interno (columnas).
+- **`Ciclo3.java`**: Menú interactivo permanente (con `do-while`) que incluye un sistema de validación de token de seguridad con un máximo de 3 intentos (usando un `while` anidado).
+
 ### Tarea.java
 Manejo de arreglos con ciclos. Declara un arreglo de 10 enteros, lo inicializa con múltiplos de 100 (100, 200, ..., 1000) y los imprime usando ciclos `for`.
 
