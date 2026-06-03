@@ -67,14 +67,18 @@ Ejemplos enfocados en el uso de ciclos anidados e interactivos:
 - **`Ciclo2.java`**: Dibujo de un triángulo rectángulo de asteriscos, demostrando la relación de dependencia entre el ciclo externo (filas) y el interno (columnas).
 - **`Ciclo3.java`**: Menú interactivo permanente (con `do-while`) que incluye un sistema de validación de token de seguridad con un máximo de 3 intentos (usando un `while` anidado).
 
-### Tarea.java
-Manejo de arreglos con ciclos. Declara un arreglo de 10 enteros, lo inicializa con múltiplos de 100 (100, 200, ..., 1000) y los imprime usando ciclos `for`.
+### Carpeta `Tarea/`
+- **`Tarea.java`**: Manejo de arreglos con ciclos. Declara un arreglo de 10 enteros, lo inicializa con múltiplos de 100 (100, 200, ..., 1000) y los imprime usando ciclos `for`.
 
 ### Carpeta `clase__de_hoy/`
 Ejercicios de manipulación de cadenas de texto (Strings):
 - **`actividad1.java`**: Inversión del orden de las palabras en una frase ingresada por el usuario, utilizando el método `split()`.
 - **`actividad2.java`**: Inversión de todos los caracteres de una frase mediante un bucle `for` invertido y el método `charAt()`.
 - **`actividad3.java`**: Análisis de texto dentro de una canción. Convierte el texto a mayúsculas con `toUpperCase()` y cuenta cuántas veces aparece una palabra específica ("TIGRE") y un carácter ('T').
+
+### Carpeta `Mundial/`
+Evolución y distintas versiones de la simulación del mundial de fútbol:
+- **`mundial.java`**, **`mundial2.java`**, **`mundial3.java`**, **`mundial4.java`**, **`mundial5.java`**: Distintas etapas y versiones de la simulación, incluyendo lógicas para el sorteo de equipos, registro de marcadores y avance en el torneo.
 
 ### Carpeta `Proyecto Mundial/`
 - **`mundial.java`**: Estructura inicial para un proyecto de simulación del mundial de fútbol. Utiliza arreglos unidimensionales para los grupos y matrices bidimensionales (`String[][]`) para organizar los equipos por grupo.
