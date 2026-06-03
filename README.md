@@ -79,6 +79,10 @@ Ejercicios de manipulación de cadenas de texto (Strings):
 ### Carpeta `Proyecto Mundial/`
 - **`mundial.java`**: Estructura inicial para un proyecto de simulación del mundial de fútbol. Utiliza arreglos unidimensionales para los grupos y matrices bidimensionales (`String[][]`) para organizar los equipos por grupo.
 
+### Carpeta `matriz/`
+Ejercicios enfocados en el uso y manipulación de matrices bidimensionales:
+- **`ejercicio1.java`**: Implementación de la multiplicación de tres matrices sucesivas ((A * B) * C). Incluye validación de dimensiones compatibles y un método auxiliar para imprimir las matrices en formato tabular.
+
 ## Tecnologías
 
 - Java
