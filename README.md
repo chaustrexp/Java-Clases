@@ -87,6 +87,9 @@ Evolución y distintas versiones de la simulación del mundial de fútbol:
 Ejercicios enfocados en el uso y manipulación de matrices bidimensionales:
 - **`ejercicio1.java`**: Implementación de la multiplicación de tres matrices sucesivas ((A * B) * C). Incluye validación de dimensiones compatibles y un método auxiliar para imprimir las matrices en formato tabular.
 
+### Carpeta `intercambios/`
+- **`ejercicio1.java`**: Algoritmo para intercambiar elementos entre dos listas (`ArrayList`). Simula el intercambio de láminas repetidas (Messi y Neymar) usando los métodos `contains()`, `remove()` y `add()`.
+
 ## Tecnologías
 
 - Java
