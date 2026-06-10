@@ -1,6 +1,4 @@
-package Proyecto
-
-Mundial;
+package Proyecto;
 
 import java.util.ArrayList;
 import java.util.Scanner;
