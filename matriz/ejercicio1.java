@@ -2,7 +2,7 @@
 // Y ese resultado se guarde temporal,
 // por medio de la matriz temoral se multiplica por la matriz c, para obtener un resultado final.
 
-package matriz;
+package Matriz;
 
 public class ejercicio1 {
     public static void main(String[] args) {
