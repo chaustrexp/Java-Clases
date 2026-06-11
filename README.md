@@ -89,6 +89,7 @@ Ejercicios enfocados en el uso y manipulación de matrices bidimensionales:
 
 ### Carpeta `intercambios/`
 - **`ejercicio1.java`**: Algoritmo para intercambiar elementos entre dos listas (`ArrayList`). Simula el intercambio de láminas repetidas (Messi y Neymar) usando los métodos `contains()`, `remove()` y `add()`.
+- **`actualizacion.java`**: Versión actualizada del algoritmo de intercambio que utiliza arreglos para iterar e intercambiar múltiples láminas simultáneamente entre dos listas (`ArrayList`).
 
 ## Tecnologías
 
