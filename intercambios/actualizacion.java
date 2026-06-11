@@ -27,8 +27,8 @@ public class actualizacion {
         System.out.println("Lista de mi amigo: " + listaAmigo);
         System.out.println("----------------------------------------------\n");
 
-        String[] misOfrendas = {"Messi", "Ronaldo"};
-        String[] loQueQuiero = {"Neymar", "Modric"};
+        String[] misOfrendas = { "Messi", "Ronaldo" };
+        String[] loQueQuiero = { "Neymar", "Modric" };
 
         for (int i = 0; i < misOfrendas.length; i++) {
             String miOfrenda = misOfrendas[i];
@@ -47,7 +47,8 @@ public class actualizacion {
 
                 System.out.println("¡Intercambio realizado con exito! 🥳 (" + miOfrenda + " por " + quiero + ")");
             } else {
-                System.out.println("❌ No se pudo realizar el intercambio de " + miOfrenda + " por " + quiero + ", las laminas están incompletas.");
+                System.out.println("❌ No se pudo realizar el intercambio de " + miOfrenda + " por " + quiero
+                        + ", las laminas están incompletas.");
             }
         }
 
